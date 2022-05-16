@@ -1,4 +1,4 @@
-# CS-4450-Capstone---2D-Sprite-Platformer
+# 2D Sprite Platformer
 Short sprite-based 2D Platformer developed in Unity(2020.3.18f1) for CS 4450 Advanced Software Engineering Methods. Made by Chris Prescott, Dayson Darby, William McConnell, Boris Topic, Brendan Coombs, Brandon Crosthwait, and Steven Sommer.
 
 Online WebGL build: https://brandolph74.github.io/CS-4450-Capstone---2D-Sprite-Platformer/
